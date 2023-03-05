@@ -3,7 +3,6 @@ import BlogList from './BlogList';
 import useFetch from './useFetch';
 const Home = () => {
     const { data: blogs, isLoading, error} = useFetch('http://localhost:8000/blogs');
-
     return(
         <div className = 'home'>
         {/* will run into error of js trying to get blogs before it has been initialied when the pade loads,
