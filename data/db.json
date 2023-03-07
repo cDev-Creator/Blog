@@ -1,16 +1,28 @@
 {
-    "blogs": [
-      {
-        "title": "My favorite react tips and tricks",
-        "body": "React is a popular JavaScript library used for building user interfaces. With its component-based architecture and declarative approach, React makes it easy to create reusable UI elements and manage complex application states. As a developer who has been working with React for a while, I have learned a few tips and tricks that have helped me be more productive and write better code. Here are some of my favorites: \n\n1. Use Functional Components \n\nFunctional components are simpler and easier to read than class components. They also perform better because they don't have the overhead of maintaining an instance. If you don't need lifecycle methods or state, use functional components. \n\n2. Use Hooks \n\nHooks are a powerful feature that allows you to use state and other React features in functional components. They let you write reusable logic and share it between components. Use hooks like useState and useEffect to manage state and perform side effects. \n\n3. Use PropTypes \n\nPropTypes is a library that lets you define the types of props that your components receive. It helps catch errors early and makes your code more predictable. Use PropTypes to document your code and communicate with other developers. \n\n4. Use Conditional Rendering \n\nConditional rendering is a technique that lets you show or hide elements based on a condition. It's a powerful way to create dynamic user interfaces. Use conditional rendering to show loading spinners, error messages, or alternate content. \n\n5. Use React DevTools \n\nReact DevTools is a browser extension that lets you inspect and debug your React components. It provides a wealth of information about your components, including their state and props. Use React DevTools to identify performance issues and debug your code. \n\nThese are just a few of my favorite tips and tricks for working with React. Whether you're a beginner or an experienced developer, I hope you find them useful. Happy coding!",
-        "author": "Mellisa Scott",
-        "id": 1
-      },
-      {
-        "title": "How to use PHP like a pro!",
-        "body": "PHP is a popular server-side scripting language used for building dynamic web applications. It has been around for over two decades and has evolved to become a powerful and versatile tool for web development. In this article, I will share some tips and tricks that will help you use PHP like a pro! \n\n1. Understand the Basics of PHP \n\nBefore you can use PHP like a pro, you need to understand the basics of the language. Learn about data types, control structures, functions, and classes. You should also learn about PHP's built-in functions and how to use them. \n\n2. Use Object-Oriented Programming (OOP) \n\nOOP is a powerful programming paradigm that allows you to write modular and reusable code. Use OOP in PHP to create classes and objects that encapsulate data and behavior. This will help you write cleaner and more maintainable code. \n\n3. Use Namespaces \n\nNamespaces allow you to organize your code into logical units and avoid naming collisions. Use namespaces in PHP to define your own namespaces and import classes from other namespaces. This will help you write more organized and modular code. \n\n4. Use Composer \n\nComposer is a package manager for PHP that allows you to easily manage dependencies and libraries. Use Composer to install and manage third-party packages and frameworks. This will help you write more efficient and maintainable code. \n\n5. Use a Framework \n\nPHP frameworks like Laravel, Symfony, and CodeIgniter provide a set of tools and conventions that make it easier to build web applications. Use a framework to automate common tasks like routing, database access, and authentication. This will help you write more scalable and robust applications. \n\nThese are just a few tips and tricks for using PHP like a pro. Keep learning and exploring the language, and you'll soon become a PHP expert.",
-        "author": "John Mark",
-        "id": 2
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "My favorite react tips and tricks",
+      "body": "React is a popular JavaScript library used for building user interfaces. With its component-based architecture and declarative approach, React makes it easy to create reusable UI elements and manage complex application states. As a developer who has been working with React for a while, I have learned a few tips and tricks that have helped me be more productive and write better code. Here are some of my favorites: \n\n1. Use Functional Components \n\nFunctional components are simpler and easier to read than class components. They also perform better because they don't have the overhead of maintaining an instance. If you don't need lifecycle methods or state, use functional components. \n\n2. Use Hooks \n\nHooks are a powerful feature that allows you to use state and other React features in functional components. They let you write reusable logic and share it between components. Use hooks like useState and useEffect to manage state and perform side effects. \n\n3. Use PropTypes \n\nPropTypes is a library that lets you define the types of props that your components receive. It helps catch errors early and makes your code more predictable. Use PropTypes to document your code and communicate with other developers. \n\n4. Use Conditional Rendering \n\nConditional rendering is a technique that lets you show or hide elements based on a condition. It's a powerful way to create dynamic user interfaces. Use conditional rendering to show loading spinners, error messages, or alternate content. \n\n5. Use React DevTools \n\nReact DevTools is a browser extension that lets you inspect and debug your React components. It provides a wealth of information about your components, including their state and props. Use React DevTools to identify performance issues and debug your code. \n\nThese are just a few of my favorite tips and tricks for working with React. Whether you're a beginner or an experienced developer, I hope you find them useful. Happy coding!",
+      "author": "Mellisa Scott",
+      "id": 1
+    },
+    {
+      "title": "How to use PHP like a pro!",
+      "body": "PHP is a popular server-side scripting language used for building dynamic web applications. It has been around for over two decades and has evolved to become a powerful and versatile tool for web development. In this article, I will share some tips and tricks that will help you use PHP like a pro! \n\n1. Understand the Basics of PHP \n\nBefore you can use PHP like a pro, you need to understand the basics of the language. Learn about data types, control structures, functions, and classes. You should also learn about PHP's built-in functions and how to use them. \n\n2. Use Object-Oriented Programming (OOP) \n\nOOP is a powerful programming paradigm that allows you to write modular and reusable code. Use OOP in PHP to create classes and objects that encapsulate data and behavior. This will help you write cleaner and more maintainable code. \n\n3. Use Namespaces \n\nNamespaces allow you to organize your code into logical units and avoid naming collisions. Use namespaces in PHP to define your own namespaces and import classes from other namespaces. This will help you write more organized and modular code. \n\n4. Use Composer \n\nComposer is a package manager for PHP that allows you to easily manage dependencies and libraries. Use Composer to install and manage third-party packages and frameworks. This will help you write more efficient and maintainable code. \n\n5. Use a Framework \n\nPHP frameworks like Laravel, Symfony, and CodeIgniter provide a set of tools and conventions that make it easier to build web applications. Use a framework to automate common tasks like routing, database access, and authentication. This will help you write more scalable and robust applications. \n\nThese are just a few tips and tricks for using PHP like a pro. Keep learning and exploring the language, and you'll soon become a PHP expert.",
+      "author": "John Mark",
+      "id": 2
+    },
+    {
+      "title": "I am a rat",
+      "body": "Day in the life of a rat king",
+      "author": "Rat King",
+      "id": 3
+    },
+    {
+      "title": "ertert",
+      "body": "retert",
+      "author": "Rat King",
+      "id": 4
+    }
+  ]
+}
