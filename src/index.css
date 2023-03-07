@@ -105,3 +105,19 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* Page not found */
+
+.not-found {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.not-found-title {
+  font-size: 70px;
+
+}
+.not-found-msg {
+  margin-top:5px;
+  margin-bottom:30px;
+}
