@@ -21,10 +21,9 @@ const Create = () => {
         }).then(() => {
             console.log('new blog added');
             setIsPending(false);
+            /* after the blog has been added reroute to the home page */
             history.push('/');
         })
-
-       
     }
     return ( 
        <div className="create">
