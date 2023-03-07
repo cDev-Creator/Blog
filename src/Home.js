@@ -15,7 +15,6 @@ const Home = () => {
             {isLoading && <div>Loading...</div>}
             {blogs && <BlogList blogs={blogs} title="All Blogs"/>}
             {blogs && <BlogList blogs={blogs.filter((blog) => blog.author === 'John Mark')} title="Blogs by John Mark"/>}
-
         </div>
     )
 }
